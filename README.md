@@ -1,15 +1,12 @@
-
 > * Babel preset，Babel 7 版本
 
 ## 安装
 使用npm：
-
 ```
 npm install --save-dev @lljj/babel-preset
 ```
 
 使用 yarn
-
 ```
 yarn add @lljj/babel-preset --dev
 ```
